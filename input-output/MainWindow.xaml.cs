@@ -24,7 +24,7 @@ namespace input_output
         {
             InitializeComponent();
 
-            MessageBox.Show("la marti è stupida");
+            MessageBox.Show("la marti è molto stupida");
         }
     }
 }
