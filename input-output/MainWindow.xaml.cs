@@ -23,6 +23,8 @@ namespace input_output
         public MainWindow()
         {
             InitializeComponent();
+
+            MessageBox.Show("la marti è stupida");
         }
     }
 }
